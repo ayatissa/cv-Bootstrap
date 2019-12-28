@@ -1,0 +1,83 @@
+/* color yellow */
+.Scroll-to-top:hover {
+    color: rgb(255, 251, 10)
+  }
+
+  .navbar-light .navbar-brand span {
+    color:rgb(255, 251, 10);
+ 
+  }
+
+  .navbar-light .navbar-nav .active  {
+    background: rgb(255, 251, 10);
+  
+  }
+  
+  .navbar-light .navbar-nav .nav-link:hover {
+    background: rgb(255, 251, 10);
+  }
+  .navbar-light .navbar-nav .nav-link:active,
+  .navbar-light .navbar-nav .nav-link:focus {
+    background: rgb(255, 251, 10);
+  }
+
+  .navbar-light .navbar-toggler {
+    color: rgb(255, 251, 10);
+    border:2px solid rgb(255, 251, 10);
+   
+  }
+
+  .carousel .control-next-icon:hover {
+
+    color:rgb(255, 251, 10);
+  }
+  .carousel .btn-danger {
+    background-color: rgb(255, 251, 10);
+    border-color: rgb(255, 251, 10);
+  }
+  .carousel i:hover{
+    color: rgb(255, 251, 10);
+  }
+  .carousel .btn-danger:hover {
+    color: rgb(255, 251, 10);
+    border:2px solid  rgb(255, 251, 10);
+  }
+
+  .About .box-About  span{
+    clear:rgb(255, 251, 10);
+  }
+  .About .row  div:hover i {
+
+    border: 2px solid  rgb(255, 251, 10);
+  }
+
+  .Testimonials  p{
+    color: rgb(255, 251, 10);
+  }
+  .subscribe-box i{
+    color: rgb(255, 251, 10);
+   
+  
+  }
+
+  .subscribe-box .form-control:focus {
+  
+    border: 2px solid rgb(255, 251, 10);
+    }
+    .input-group input{
+    
+      border: rgb(255, 251, 10);
+    }
+    .subscribe-box .btn {
+    background: rgb(255, 251, 10);
+   
+    }
+
+    .contact-us i{
+        color: rgb(255, 251, 10);
+       
+      }
+      .option-box i{
+        color: rgb(255, 251, 10);
+        
+      }

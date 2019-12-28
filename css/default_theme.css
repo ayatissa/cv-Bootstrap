@@ -1,0 +1,85 @@
+/* color red */
+.Scroll-to-top:hover {
+    color: #d33
+  }
+
+  .navbar-light .navbar-brand span {
+    color:#d33;
+ 
+  }
+
+  .navbar-light .navbar-nav .active  {
+    background: #d33;
+  
+  }
+  
+  .navbar-light .navbar-nav .nav-link:hover {
+    background: #d33;
+  }
+  .navbar-light .navbar-nav .nav-link:active,
+  .navbar-light .navbar-nav .nav-link:focus {
+    background: #d33;
+  }
+
+  .navbar-light .navbar-toggler {
+    color: #dc3545;
+    border:2px solid #d33;
+   
+  }
+
+  .carousel .control-next-icon:hover {
+
+    color:#d33;
+  }
+
+  .carousel i:hover{
+    color: #d33;
+  }
+  .carousel .btn-danger {
+    background-color: #d33;
+    border-color: #d33;
+  }
+  
+  .carousel .btn-danger:hover {
+    color: #d33;
+    border:2px solid  #d33 ;
+  }
+
+  .About .box-About  span{
+    clear:#d33 ;
+  }
+  .About .row  div:hover i {
+
+    border: 2px solid  #d33 ;;
+  }
+
+  .Testimonials  p{
+    color: #d33;
+  }
+  .subscribe-box i{
+    color: #d33;
+   
+  
+  }
+
+  .subscribe-box .form-control:focus {
+  
+    border: 2px solid #d33;
+    }
+    .input-group input{
+    
+      border: #d33;
+    }
+    .subscribe-box .btn {
+    background: #d33;
+   
+    }
+
+    .contact-us i{
+        color: #d33;
+       
+      }
+      .option-box i{
+        color: #d33;
+        
+      }
